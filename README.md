@@ -1,2 +1,2 @@
 # testconectividad1
-# com3
+# com1
